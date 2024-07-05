@@ -1,6 +1,6 @@
 plugins{
     id 'Java'}
-xyi
+xyi blja suka
 repositories{
     mavenCentral()
 }
